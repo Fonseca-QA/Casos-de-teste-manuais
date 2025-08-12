@@ -15,4 +15,4 @@
 - Usuário é cadastrado com sucesso e redirecionado para a página inicial.
 - Mensagem de boas-vindas é exibida.
 
-**Status:** Pendente de execução
+**Status:** Passou
