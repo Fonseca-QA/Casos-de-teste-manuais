@@ -8,11 +8,10 @@
 
 **Passos:**
 1. Acessar a página de cadastro.
-2. Preencher nome, e-mail e senha com dados válidos.
-3. Clicar em "Cadastrar".
+2. Preencher nome de usuário e senha com dados válidos.
+3. Clicar em "Login".
 
 **Resultado Esperado:**
 - Usuário é cadastrado com sucesso e redirecionado para a página inicial.
-- Mensagem de boas-vindas é exibida.
 
 **Status:** Passou
