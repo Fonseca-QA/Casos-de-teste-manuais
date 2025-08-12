@@ -1,4 +1,4 @@
-# Caso de Teste - TC002: Compra de Produto
+# Caso de Teste - CT002: Compra de Produto
 
 **Objetivo:** Validar se o usuário consegue realizar uma compra de produto com sucesso.
 
